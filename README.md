@@ -3,7 +3,12 @@
 
 ## Sobre o Projeto
 
-O **Gerenciador de Tarefas** é um projeto e interface frontend desenvolvidos para fornecer uma maneira eficiente de gerenciar tarefas pessoais. O projeto permite adicionar, editar, remover e listar tarefas, além de marcar tarefas como concluídas ou importantes. facilita o gerenciamento de tarefas de maneira prática e intuitiva, sendo uma excelente solução para organizar o dia a dia de qualquer usuário.
+O **Gerenciador de Tarefas** é um projeto e interface frontend desenvolvidos para fornecer uma maneira eficiente de gerenciar tarefas pessoais. Além disso, ele consome uma API de gerenciamento de tarefas para realizar operações como adicionar, listar e excluir tarefas, além de marcar tarefas como concluídas ou importantes. facilita o gerenciamento de tarefas de maneira prática e intuitiva, sendo uma excelente solução para organizar o dia a dia de qualquer usuário. 
+
+# Minha API_Tarefas
+
+Este projeto está relacionado com o [Api_tarefas](https://github.com/Arthur-Luiz19/Api_tarefas).
+
 
 ### Funcionalidades principais:
 - **Adicionar tarefas**: Permite adicionar novas tarefas à lista.
