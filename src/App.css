@@ -1,0 +1,29 @@
+div {
+  text-align: center; /* Centraliza o conteúdo dentro do div */
+  margin-top: 50px;   /* Adiciona espaço no topo do div */
+  margin: 0 auto;     /* Centraliza horizontalmente o div */
+}
+
+h1 {
+  font-size: 2.5rem;  /* Define o tamanho da fonte do título principal */
+  color: #4CAF50;     /* Define a cor do texto como verde */
+}
+
+p {
+  font-size: 1.2rem;  /* Define o tamanho da fonte para o parágrafo */
+  color: #555;        /* Define a cor do texto como cinza escuro */
+}
+
+ul {
+  list-style-type: none; /* Remove os marcadores da lista */
+  padding: 0;           /* Remove o preenchimento padrão */
+}
+
+li {
+  background: #f0f0f0;      /* Define uma cor de fundo clara para os itens da lista */
+  margin: 5px 0;            /* Adiciona espaço entre os itens da lista */
+  padding: 10px;            /* Adiciona preenchimento interno para os itens */
+  border-radius: 5px;       /* Arredonda as bordas dos itens */
+  font-size: 1.2rem;        /* Define o tamanho da fonte dos itens */
+  color: #333;              /* Define a cor do texto como cinza escuro */
+}
